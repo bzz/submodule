@@ -1,3 +1,6 @@
 [submodule "basic"]
 	path = basic
 	url = https://github.com/git-fixtures/basic.git
+[submodule "itself"]
+	path = itself
+	url = https://github.com/git-fixtures/submodule.git
